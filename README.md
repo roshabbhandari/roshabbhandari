@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Roshab Bhandari</h1>
-
 <h3 align="center">
 Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 </h3>
 
 <p align="center">
-Building AI applications, learning backend development, and creating open-source projects.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=Computer+Engineering+Student;Python+Developer;Backend+Developer;Artificial+Intelligence+Enthusiast;FastAPI+Learner;Docker+%7C+Linux+Explorer;Cyber+Security+Learner;Open+Source+Contributor;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=Computer+Engineering+Student;Python+Developer;Backend+Developer;Artificial+Intelligence+Enthusiast;FastAPI+Learner;Docker+%7C+Linux+Explorer;Cyber+Security+Learner;Open+Source+Contributor;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=roshabbhandari&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/roshabbhandari?label=Followers&style=for-the-badge&color=0e75b6"/>
 </p>
 
----
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<hr>
 
 ## 🚀 About Me
 
@@ -26,22 +29,24 @@ Building AI applications, learning backend development, and creating open-source
 - ⚡ Learning FastAPI, Docker & Backend Development
 - 🐧 Linux Enthusiast
 - 🔐 Interested in Cyber Security
+- 🌱 Currently learning: **FastAPI, Docker, System Design**
+- 💬 Ask me about: **Python, AI/ML basics, Linux**
+- 📫 Reach me at: **your.email@example.com**
 - 🚀 Building useful projects and learning every day
 
----
+<hr>
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,fastapi,docker,linux,git,github,vscode,mysql,notion,bash&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,fastapi,docker,linux,git,github,vscode,mysql,notion,bash&perline=8"/>
 </p>
 
----
+<hr>
 
 ## 🏷️ Technologies
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -51,12 +56,13 @@ Building AI applications, learning backend development, and creating open-source
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://www.google.com/imgres?q=notion%20icon%20for%20github%20profile%20url&imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Ffree-notion-icon-svg-download-png-10918936.png%3Ff%3Dwebp%26w%3D128&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficons%2Fnotion&docid=1aB3dYx9yeDmSM&tbnid=hsHJwd6k2vVKUM&vet=12ahUKEwiTjsPG0fWVAxX8WHADHZ-xLekQnPAOegQIYBAA..i&w=256&h=256&hcb=2&ved=2ahUKEwiTjsPG0fWVAxX8WHADHZ-xLekQnPAOegQIYBAA"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+<hr>
 
 ## 📊 GitHub Statistics
 
@@ -65,7 +71,19 @@ Building AI applications, learning backend development, and creating open-source
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshabbhandari&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshabbhandari&theme=tokyonight&hide_border=true"/>
+</p>
+
+<hr>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=roshabbhandari&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+<hr>
 
 ## 📈 Contribution Graph
 
@@ -73,7 +91,32 @@ Building AI applications, learning backend development, and creating open-source
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshabbhandari&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<hr>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/roshabbhandari/roshabbhandari/output/github-contribution-grid-snake.svg"/>
+</p>
+
+> 💡 To enable this, add the [snake workflow](https://github.com/Platane/snk) to a repo named exactly like your username — it auto-generates the snake animation above from your contribution graph.
+
+<hr>
+
+## 📌 Featured Projects
+
+<p align="center">
+<a href="https://github.com/roshabbhandari/PROJECT-1-REPO">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=roshabbhandari&repo=PROJECT-1-REPO&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/roshabbhandari/PROJECT-2-REPO">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=roshabbhandari&repo=PROJECT-2-REPO&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
+
+> Replace `PROJECT-1-REPO` / `PROJECT-2-REPO` with your actual repository names to pin them here.
+
+<hr>
 
 <div align="center">
 
