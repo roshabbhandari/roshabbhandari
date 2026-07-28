@@ -68,9 +68,9 @@ Building AI applications, learning backend development, and contributing to open
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=roshabbhandari&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshabbhandari&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -80,7 +80,7 @@ Building AI applications, learning backend development, and contributing to open
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&radius=12"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshabbhandari&theme=tokyo-night&hide_border=true&radius=12"/>
 
 </p>
 
