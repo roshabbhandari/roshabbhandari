@@ -33,7 +33,7 @@ Building AI applications, learning backend development, and creating open-source
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,fastapi,docker,linux,git,github,vscode,mysql,bash&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,fastapi,docker,linux,git,github,vscode,mysql,notion,bash&perline=7"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@ Building AI applications, learning backend development, and creating open-source
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://www.google.com/imgres?q=notion%20icon%20for%20github%20profile%20url&imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Ffree-notion-icon-svg-download-png-10918936.png%3Ff%3Dwebp%26w%3D128&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficons%2Fnotion&docid=1aB3dYx9yeDmSM&tbnid=hsHJwd6k2vVKUM&vet=12ahUKEwiTjsPG0fWVAxX8WHADHZ-xLekQnPAOegQIYBAA..i&w=256&h=256&hcb=2&ved=2ahUKEwiTjsPG0fWVAxX8WHADHZ-xLekQnPAOegQIYBAA"/>
 </p>
 
 ---
