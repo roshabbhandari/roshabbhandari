@@ -31,7 +31,7 @@ Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 - 🔐 Interested in Cyber Security
 - 🌱 Currently learning: **FastAPI, Docker, System Design**
 - 💬 Ask me about: **Python, AI/ML basics, Linux**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **roshabbhandari1334@gmail.com**
 - 🚀 Building useful projects and learning every day
 
 <hr>
@@ -114,7 +114,6 @@ Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 </a>
 </p>
 
-> Replace `PROJECT-1-REPO` / `PROJECT-2-REPO` with your actual repository names to pin them here.
 
 <hr>
 
