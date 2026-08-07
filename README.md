@@ -96,13 +96,13 @@ Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/roshabbhandari/roshabbhandari/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <img alt="Roshab's GitHub Contribution Snake" src="https://githubusercontent.com">
+  </picture>
 </p>
 
-> 💡 To enable this, add the [snake workflow](https://github.com/Platane/snk) to a repo named exactly like your username — it auto-generates the snake animation above from your contribution graph.
-
 <hr>
-
 ## 📌 Featured Projects
 
 <p align="center">
