@@ -95,9 +95,10 @@ Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
     <img alt="Roshab's GitHub Contribution Snake" src="https://githubusercontent.com">
   </picture>
 </p>
