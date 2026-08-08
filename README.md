@@ -95,7 +95,7 @@ Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 
 ## 🐍 Contribution Snake
 
-align="center">
+<align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
     <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
