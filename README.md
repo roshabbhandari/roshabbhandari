@@ -4,7 +4,7 @@ Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=Computer+Engineering+S[...]
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=55&lines=Computer+Engineering+Student;Python+Developer;Backend+Developer;Artificial+Intelligence+Enthusiast;FastAPI+Learner;Docker+%7C+Linux+Explorer;Cyber+Security+Learner;Open+Source+Contributor;Always+Learning+New+Things+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -95,12 +95,15 @@ Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img alt="Roshab's GitHub Contribution Snake" src="https://github.com/roshabbhandari/roshabbhandari/blob/output/github-contribution-grid-snake.svg"/>
+<align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img alt="Roshab's GitHub Contribution Snake" src="https://githubusercontent.com">
+  </picture>
 </p>
 
 <hr>
-
 ## 📌 Featured Projects
 
 <p align="center">
