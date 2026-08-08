@@ -96,11 +96,7 @@ Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshabbhandari/roshabbhandari/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshabbhandari/roshabbhandari/output/github-contribution-grid-snake.svg"/>
-    <img alt="Roshab's GitHub Contribution Snake" src="https://raw.githubusercontent.com/roshabbhandari/roshabbhandari/output/github-contribution-grid-snake.svg"/>
-  </picture>
+<img alt="Roshab's GitHub Contribution Snake" src="https://github.com/roshabbhandari/roshabbhandari/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <hr>
