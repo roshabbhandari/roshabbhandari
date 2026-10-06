@@ -29,7 +29,7 @@ Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 - ⚡ Learning FastAPI, Docker & Backend Development
 - 🐧 Linux Enthusiast
 - 🔐 Interested in Cyber Security
-- 🌱 Currently learning: **FastAPI, Docker, System Design**
+- 🌱 Currently learning: **FastAPI, Django, Docker, System Design**
 - 💬 Ask me about: **Python, AI/ML basics, Linux**
 - 📫 Reach me at: **roshabbhandari1334@gmail.com**
 - 🚀 Building useful projects and learning every day
@@ -60,6 +60,7 @@ Computer Engineering Student • Python Developer • AI & Backend Enthusiast
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://shields.io"/>
 </p>
 
 <hr>
